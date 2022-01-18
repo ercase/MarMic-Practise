@@ -1,3 +1,5 @@
 Help, what am i doing...
-#First try
+#Firse try
 
+Additional text...
+#Adding more text to file1
